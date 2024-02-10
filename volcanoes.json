@@ -77,7 +77,7 @@
         },
         {
             "name": "Rainier",
-            "vei": 4,
+            "vei": 5,
             "coordinates": [46.85232525812001, -121.76030611133204],
             "type": "Stratovolcano",
             "summitFeet": 14409,
@@ -86,7 +86,7 @@
         },
         {
             "name": "Glacier Peak",
-            "vei": 4,
+            "vei": 5,
             "coordinates": [48.11198353291689, -121.11327801525596],
             "type": "Stratovolcano",
             "summitFeet": 10541,
@@ -221,12 +221,12 @@
         },
         {
             "name": "Popocatépetl",
-            "vei": 5,
+            "vei": 6,
             "coordinates": [19.02324983435253, -98.62385037278861],
             "type": "Stratovolcano",
             "summitFeet": 17694,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Popocatépetl is an active stratovolcano located in Mexico. It is one of the most active volcanoes on the planet and poses a large threat to nearby cities."
         },
         {
             "name": "La Garita Caldera",
@@ -428,7 +428,7 @@
         },
         {
             "name": "Puyehue",
-            "vei": 5,
+            "vei": 6,
             "coordinates": [-40.582676034219, -72.11227086139536],
             "type": "Stratovolcano",
             "summitFeet": 19393,
@@ -671,7 +671,7 @@
         },
         {
             "name": "Etna",
-            "vei": 5,
+            "vei": 6,
             "coordinates": [37.75101806750681, 14.993433315138889],
             "type": "Stratovolcano",
             "summitFeet": 3357,
@@ -689,7 +689,7 @@
         },
         {
             "name": "Teide",
-            "vei": 4,
+            "vei": 5,
             "coordinates": [28.272329639902104, -16.64244571326994],
             "type": "Stratovolcano",
             "summitFeet": 12188,
@@ -734,7 +734,7 @@
         },
         {
             "name": "Damavand",
-            "vei": 0,
+            "vei": 5,
             "coordinates": [35.95586670412353, 52.10961218268941],
             "type": "Stratovolcano",
             "summitFeet": 18602,
@@ -770,7 +770,7 @@
         },
         {  
             "name": "Opala",
-            "vei": 5,
+            "vei": 7,
             "coordinates": [52.543088781102455, 157.33872616806227],
             "type": "Stratovolcano",
             "summitFeet": 8002,
@@ -806,7 +806,7 @@
         },
         {  
             "name": "Changbaishan",
-            "vei": 6,
+            "vei": 7,
             "coordinates": [42.00269704724275, 128.05850527551027],
             "type": "Stratovolcano",
             "summitFeet": 3317,
